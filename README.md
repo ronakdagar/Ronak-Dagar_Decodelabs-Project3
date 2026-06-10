@@ -29,3 +29,5 @@ The EDA revealed meaningful insights about the vehicle market with:
 ✅ Detected significant outliers that could impact future model performance
 
 ✅ Strong correlation insights between mileage, year, and vehicle pricing
+
+<img width="695" height="468" alt="image" src="https://github.com/user-attachments/assets/abb8d79b-d56f-49a6-a517-c3ca3380e623" />
