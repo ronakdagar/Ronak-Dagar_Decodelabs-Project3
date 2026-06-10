@@ -36,4 +36,7 @@ The EDA revealed meaningful insights about the vehicle market with:
 
 <img width="637" height="526" alt="image" src="https://github.com/user-attachments/assets/692daf3a-71b1-45f3-8092-228deb68c826" />
 
+<img width="842" height="520" alt="image" src="https://github.com/user-attachments/assets/f12c5232-446b-4bdf-87f4-b7abc76093cc" />
+
+
 
